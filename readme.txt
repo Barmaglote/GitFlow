@@ -3,3 +3,4 @@ Master
 Тут
 Добавляем
 New_docs
+Готов к Release
